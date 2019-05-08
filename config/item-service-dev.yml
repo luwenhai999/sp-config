@@ -10,11 +10,11 @@ eureka:
 ---
      
 server:
-  port: 8001
+  port: 8011
 spring:
   profiles: item1
 ---
 server:
-  port: 8002
+  port: 8022
 spring:
   profiles: item2
